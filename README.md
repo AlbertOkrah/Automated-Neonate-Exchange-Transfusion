@@ -1,0 +1,4 @@
+# Automated-Neonate-Exchange-Transfusion
+
+This repository contains software that was used in running the Automated Neonate Exchange Transfusion (ANET) device.
+This project sought to combine mechanics, electronics and programming to design and build a low-cost device that automates the neonatal exchange transfusion (ANET) procedure to eliminate human errors, lessen the burden on physicians and most importantly increase the chances of survival for babies with hyperbilirubinemia. The approach involved simulating various models to determine stress and deformation variables and subsequently building the device using the simulation references. A comparison between the ANET device and the manual process confirmed the level of consistency the device provides throughout the exchange transfusion process. Recommendations have been made for further work on the project.
